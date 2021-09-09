@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## The Power of the Dog
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/PowerOfDog.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：The Power of the Dog <br>
+作者：Thomas Savage <br>
+评分：4.4/5 <br>
+![avatar](https://variety.com/wp-content/uploads/2021/07/The-Power-of-the-Dog.jpeg)
 
-### Markdown
+1920年，Phil和George是两兄弟，他们都没结婚，一起经营了一个农场。George憨厚善良，但反应比较迟钝；Phil性格举止粗犷，而且具有极高的智商，他的一举一动都是典型的硬汉形象。Phil尤其喜欢霸凌那些举止不够阳刚的男性。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+医生Johnny和Rose结婚，生下了儿子Peter，Peter内敛沉静却不害羞，从小就表现出许多早熟聪慧的举动。Rose开了家旅馆，儿子会帮忙当服务生。Johnny在镇上当了多年医生，一次Phil当众挑衅Johnny，讽刺他养了个娘娘腔儿子Peter, 然后当众羞辱并暴打了Johnny. Johnny回家后心里遭受重创(他没有告诉Rose)，一年后他忍受不了而自杀，尸体第一个被Peter发现。
 
-```markdown
-Syntax highlighted code block
+Rose和Peter母子艰难靠旅馆为生，一日Phil和George外出露宿旅馆，George对Rose一见钟情，Rose也不知道George的哥哥就是害死丈夫的凶手。George温柔的举动打动了Rose，他们几周后就结婚。
 
-# Header 1
-## Header 2
-### Header 3
+Phil对弟弟贸然结婚的举动十分愤怒，由于兄弟两住在一起，他每次趁George不在，都用冷暴力等手段把Rose折磨得生不如死，Rose顾及兄弟情感，也知道自己只是一个寡妇，只能把屈辱藏在心里，时间一长就染上了酒瘾。
 
-- Bulleted
-- List
+暑假Peter来到农场生活，他迅速察觉到了农场表面生活下的波涛，知道了母亲的痛苦。Peter第一天来到农场，Phil就和他擦出火花：Phil全裸洗澡被Peter看到了。Phil看不起Peter的书呆子气，但却被他沉静的气质吸引。他主动亲近Peter，教他骑马，教他编织绳子，Peter也欣然接受，两人在一次编织绳子时homoerotic的气氛更是爆表。
 
-1. Numbered
-2. List
+然而表面文静的Peter暗中策划了一场阴谋，他扭曲的心态在书的后半本已经有倪端。故事在最后10页剧情飞速直上，出现了出乎意料的情节。而真相直到最后一段的最后一句话才揭晓。
 
-**Bold** and _Italic_ and `Code` text
+*这个故事里的主要人物除了George以外都有不同程度的心理扭曲，作者从一开始就不断暗示Phil有同性倾向，他超出常理的硬汉形象更多是一种内化的恐同情绪的表现，他生活在保守的蒙大拿乡村，又有着极高的智商，知道自己异于常人的取向会给自己带来噩梦，因此他用硬汉形象伪装自己，最终酿成了一出出悲剧。Peter也是从一开始就被作者不断暗示他的心理有不正常之处，他同样的早熟和聪慧最终让他帮助母亲复仇，结尾浑然不知的Rose和George温馨甜蜜的场景和Peter在一旁的内心活动形成对比，全书就这样结束在一个惊悚的高潮中。BTW这个故事即将影视化上映了，Phil扮演者是卷福*
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/PowerOfDog.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*这本书的语言和结构整本看下来就非常灵动，多用短句或不完整句的写法让小说读下来像在听故事，有时节奏会比较紧促，有时又会陷入仿佛一个人在彷徨时自言自语的细节。故事脉络不散但表面非常碎片化，有时即便是同一个场景的描写也会显得很散，有时还会引入一些不太相关的支线，同时故事的视角不断移动，不仅会进入主角的内心世界，而且有时会进入无关人员比如印第安人的视角。这种描写碎片化和镜头碎片化的处理方式让故事许多地方隐隐约约感觉是设置了隐喻或暗示，我最近开学后读得很随便没有细想，大家细读应该会发现更多解读。*
